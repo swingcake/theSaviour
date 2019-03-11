@@ -1,0 +1,2 @@
+The program works as is without any "assets" for now.  
+These have been put here for a future implementation of material design on the project.
