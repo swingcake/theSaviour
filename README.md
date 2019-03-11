@@ -9,6 +9,6 @@ Who will this help?
 -Anyone, from an engineering student to frequent fiction readers and enthusiasts. 
 
 How are we going to implement it?  
--That’s the fun part. Using A-frame for a web virtual reality (Web VR) experience.      
+-That’s the fun part. Using A-frame for a web virtual reality (Web VR) experience. Dive into the presentation for an elaborate idea.    
   
 /made with ❤️ by team theNoobs
